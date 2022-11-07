@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137594774487",
+    "project_id": "monkbook-f969d",
+    "storage_bucket": "monkbook-f969d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137594774487:android:8071b1feeffa244d8ce192",
+        "android_client_info": {
+          "package_name": "com.gover.monkbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137594774487-q206asvrmis3db5re2b93utpga9l9b08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5gNxs-zuP_T1cj5X2x796FQbHoRGJ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137594774487-q206asvrmis3db5re2b93utpga9l9b08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

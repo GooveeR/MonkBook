@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/workout_share" android:title="WorkOut Add"></item>
+
+    <item android:id="@+id/exit" android:title="Exit"></item>
+    <item android:id="@+id/current_user" android:title="Current User"></item>
+</menu>
